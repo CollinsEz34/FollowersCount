@@ -35,4 +35,4 @@ Make sure you have a modern browser (Chrome, Firefox, Edge, etc.) to view and in
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/FollowersCount.git
+   [git clone https://github.com/yourusername/FollowersCount.git](https://github.com/CollinsEz34/FollowersCount.git)
