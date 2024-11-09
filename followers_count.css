@@ -7,6 +7,10 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
+.container{
+    width: 80%;          /* Adjust the width of your content */
+    text-align: center;
+}
 
 /* Styling for the main heading */
 h1 {

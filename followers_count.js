@@ -9,7 +9,7 @@ function IncreaseCount() {
     document.getElementById('CountDisplay').innerHTML=count; // Display the count in the HTML  
     }
     function checkCountValue() {
-        if (count === 10) {
+        if (count === 10000) {
           alert("Your Instagram post gained 10 followers! Congratulations!");
         } else if (count === 20) {
           alert("Your Instagram post gained 20 followers! Keep it up!");
