@@ -7,13 +7,9 @@
 ## Features
 
 - **Follower Counter**: Display and simulate increasing follower count.
-- **Animated Follower Count**: Smooth animation when the follower count increases.
 - **"Followed" Message**: A popup message shows after each follow action.
 - **Reset Feature**: Resets the counter with confirmation to avoid accidental resets.
-- **Dark/Light Mode Toggle**: Switch between dark and light themes.
-- **Share Button**: Share the current follower count on social media platforms like Twitter.
-- **Milestone Notifications**: Get notifications when the follower count reaches key milestones (10, 100, 1000 followers).
-- **Thank You Message**: Display a message of appreciation for each follow.
+
 
 ---
 
