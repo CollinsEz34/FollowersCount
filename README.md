@@ -25,7 +25,7 @@
 
 ### Prerequisites
 
-Make sure you have a modern browser (Chrome, Firefox, Edge, etc.) to view and interact with the app.
+Make sure you have a modern browser (Chrome) to view and interact with the app.
 
 ### Steps to Run Locally
 
