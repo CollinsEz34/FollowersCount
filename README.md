@@ -16,8 +16,8 @@
 ## Technologies Used
 
 - **HTML**: Structure and layout of the application.
-- **CSS**: Styling for the page, including responsive design, animations, and themes.
-- **JavaScript**: Logic for counting followers, handling animations, and providing interactive features.
+- **CSS**: Styling for the page.
+- **JavaScript**: Logic for counting followers and providing interactive features.
 
 ---
 
