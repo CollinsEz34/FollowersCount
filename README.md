@@ -17,7 +17,7 @@
 
 - **HTML**: Structure and layout of the application.
 - **CSS**: Styling for the page.
-- **JavaScript**: Logic for counting followers and providing interactive features.
+- **JavaScript**: Logic for counting followers.
 
 ---
 
