@@ -6,7 +6,7 @@
 
 ## Features
 
-- **Follower Counter**: Display and simulate increasing follower count.
+- **Follower Counter**: simulate increasing follower count.
 - **"Followed" Message**: A popup message shows after each follow action.
 - **Reset Feature**: Resets the counter .
 
