@@ -29,6 +29,6 @@ Make sure you have a modern browser (Chrome) to view and interact with the app.
 
 ### Steps to Run Locally
 
-1. **Clone the repository**:
+1. **Clone the repository
    ```bash
    [git clone https://github.com/yourusername/FollowersCount.git](https://github.com/CollinsEz34/FollowersCount.git)
