@@ -69,19 +69,6 @@ pipeline {
 
     post {
         always {
-            // This block runs regardless of success or failure
-            echo 'Cleaning up...'
-            cleanWs()  // Clean the workspace after the build
+            echo 'Build completed, but we may need to fix it later.'
         }
-
-        success {
-            // Actions to take if the build succeeds
-            echo 'Build Successful!'
-        }
-
-        failure {
-            // Actions to take if the build fails
-            echo 'Build Failed!'
-        }
-    }
 }
