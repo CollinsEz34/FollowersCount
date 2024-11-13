@@ -26,6 +26,11 @@ pipeline {
 
         stage('Lint') {
             steps {
+                // Ensure eslint binary has executable permissions
+                script {
+                    sh 'chmod +x ./node_modules/.bin/eslint'  // Ensure the eslint binary is executable
+                }
+
                 // Run eslint to check code quality
                 script {
                     // Ensure eslint is run via npx to avoid permission issues
