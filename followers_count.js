@@ -10,17 +10,17 @@ function IncreaseCount() {
     }
     function checkCountValue() {
         if (count === 10000) {
-          alert("Your Instagram post gained 10 followers! Congratulations!");
+          alert('Your Instagram post gained 10 followers! Congratulations!');
         } else if (count === 20) {
-          alert("Your Instagram post gained 20 followers! Keep it up!");
+          alert('Your Instagram post gained 20 followers! Keep it up!');
         }else if(count===30){
-            alert("Maximum number of followers reached!")
+            alert('Maximum number of followers reached!');
         }
       }
       function ResetCount(){
         count=0;
         displayCount();
         if(count===0) {
-            alert("Followers count has been reset successful!")
+            alert('Followers count has been reset successful!');
         }
       }
