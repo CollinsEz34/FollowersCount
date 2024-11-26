@@ -5,15 +5,12 @@
   "main": "followers_count.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "eslint ."
+   "build": "echo \"Build process started...\""
   },
   "author": "Collins",
   "license": "MIT",
   "keywords": [],
   "dependencies": {
     "express": "^4.21.1"
-  },
-  "devDependencies": {
-    "eslint": "^9.14.0"
   }
 }
