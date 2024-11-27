@@ -1,4 +1,4 @@
-# Followers Counter for social media account like facebook
+# Followers Counter for my social media facebook account.
 
 **FollowersCount** is a simple web-based counter that simulates the increase in followers for a Facebook-like account. It allows users to "follow" a user, see the follower count increase in real-time.
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Technologies Used
+## Technologies Used include;
 
 - **HTML**: Structure and layout of the application.
 - **CSS**: Styling for the page.
