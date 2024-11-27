@@ -13,7 +13,7 @@
 
 ---
 
-## Technologies Used
+## Technologies Used include;
 
 - **HTML**: Structure and layout of the application.
 - **CSS**: Styling for the page.
